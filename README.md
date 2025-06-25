@@ -22,11 +22,19 @@ I believe in learning by doing, so I often share my projects and experiences on 
 
 ## 🧰 Tech Interests
 
-- 💻 C++, Python
-- 🧠 Data Structures & Algorithms
-- 🎮 Game Development (Raylib)
-- 🌐 Cybersecurity (learning in progress)
-- 🗃️ Git & GitHub
+- 💻 C++, Python  
+- 🧠 Data Structures & Algorithms  
+- 🎮 Game Development (Raylib)  
+- 🌐 Cybersecurity (learning in progress)  
+- 🗃️ Git & GitHub  
+
+---
+
+## 🎯 Hobbies
+
+- 🎧 Listening to music  
+- 🏓 Playing table tennis  
+- ⚽ Watching and playing football  
 
 ---
 
@@ -39,7 +47,7 @@ Subscribe to follow my learning journey and see tutorials, projects, and behind-
 
 ## 📫 Contact Me
 
-- Email: tn421015@gmail.com
+- Email: tn421015@gmail.com  
 - GitHub: [NguyenToan-dev](https://github.com/NguyenToan-dev)
 
 ---
@@ -49,4 +57,3 @@ Subscribe to follow my learning journey and see tutorials, projects, and behind-
     Thanks for stopping by! Let’s learn and build cool stuff together. 🚀
   </span>
 </marquee>
-
