@@ -38,10 +38,15 @@ I believe in learning by doing, so I often share my projects and experiences on 
 
 ---
 
-## 📺 YouTube Channel
+## 📺 YouTube Channels
 
-Subscribe to follow my learning journey and see tutorials, projects, and behind-the-scenes of my student life:  
-👉 [youtube.com/@nguyenkhanhtoan](https://youtube.com/@nguyenkhanhtoan) *(placeholder link)*
+🎥 **Main Channel – Learning & Tech**  
+Subscribe to follow my learning journey, tutorials, coding projects, and student life:  
+👉 [youtube.com/@nguyenkhanhtoan](https://youtube.com/@nguyenkhanhtoan)
+
+🏓 **Side Channel – Table Tennis Passion**  
+I also share exciting table tennis content, matches, and highlights here:  
+👉 [youtube.com/@TTlovers-0810](https://www.youtube.com/@TTlovers-0810)
 
 ---
 
