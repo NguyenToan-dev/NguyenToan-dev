@@ -57,8 +57,7 @@ I also share exciting table tennis content, matches, and highlights here:
 
 ---
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <span style="color:deepskyblue; font-weight:bold;">
-    Thanks for stopping by! Let’s learn and build cool stuff together. 🚀
-  </span>
-</marquee>
+
+![Thanks](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=45A1FF&center=true&width=600&lines=Thanks%20for%20stopping%20by!;Let%E2%80%99s%20learn%20and%20build%20cool%20stuff%20together.%20%F0%9F%9A%80)
+
+
